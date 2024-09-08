@@ -16,7 +16,6 @@ This repository contains a comprehensive analysis of the UCI Heart Disease Datas
 The dataset used in this project is sourced from the UCI Machine Learning Repository and contains various medical attributes related to heart disease, such as age, sex, cholesterol levels, maximum heart rate achieved, and others. The target variable is binary, indicating the presence or absence of heart disease.
 
 - **Number of instances**:1025
-- 
 - **Number of features**: 14
 
 ## Analysis Summary
